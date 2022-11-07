@@ -1,7 +1,12 @@
 <p align="center"><img src="https://github.com/dmlls/hwr-explained/blob/gh-pages/img-notebook/HWR_title.png" alt="HWR Explained"></p>
 
-- [**Jupyter Notebook Version**](https://github.com/dmlls/hwr-explained/blob/main/Simple%20HWR%20Explained.ipynb)
-- [**Web Version**](https://dmlls.github.io/hwr-explained)
+<p align="center">
+  <a href="https://mybinder.org/v2/gh/dmlls/hwr-explained/HEAD?labpath=Simple%20HWR%20Explained.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Lanuch Binder"></a>
+  <br>
+  <a href="https://dmlls.github.io/hwr-explained"><b>Web Version</b></a>
+  <br>
+  <a href="https://github.com/dmlls/hwr-explained/blob/main/Simple%20HWR%20Explained.ipynb"><b>Jupyter Notebook Version</b></a>
+<p>
 
 <br>
 
